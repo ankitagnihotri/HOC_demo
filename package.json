@@ -1,8 +1,8 @@
 {
-  "name": "hoc-demo",
+  "name": "hoc_demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://soorajchandran.github.io/hoc-demo",
+  "homepage": "https://github.com/ankitagnihotri/hoc_demo",
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.3.2",

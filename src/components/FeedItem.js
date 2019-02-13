@@ -7,9 +7,9 @@ const FeedItem = ({ contacts }) => {
         <div className="row p-2" key={contact.email}>
           <div className="col-sm-2">
             <img
+              alt=""
               className="rounded-circle"
               src={contact.thumbnail}
-              role="presentation"
             />
           </div>
           <div className="feedData col-sm-9">

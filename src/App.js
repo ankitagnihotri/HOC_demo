@@ -21,12 +21,13 @@ class App extends Component {
   }
 
   render() {
+      console.log("contacts", this.state.contacts);
     return (
       <div className="App">
         <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="">
                 HOC Demo app
               </a>
             </li>
